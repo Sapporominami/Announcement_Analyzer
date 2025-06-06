@@ -3,7 +3,7 @@
 以下のリンクで本ソフトのダウンロードが可能です。WindowsPCでリンクを開いて.zipファイルをダウンロードし、解凍してください。  
 [Announcement_Analyzer.zipをダウンロード](https://github.com/Sapporominami/Announcement_Analyzer/releases/latest/download/Announcement_Analyzer.zip)
   
-- サイズ　：約351MB
+- サイズ　：約378MB
 - 動作環境：Windows 10 / Windows 11
   
   
